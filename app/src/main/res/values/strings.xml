@@ -1,0 +1,49 @@
+<resources>
+    <!--    Topページ-->
+    <string name="app_name">理想の留学プラン</string>
+    <string name="tv_title">Perfect Resort</string>
+    <string name="bt_study">語学留学</string>
+    <string name="bt_work">ワーホリ</string>
+    <string name="bt_home">ホームステイ</string>
+    <string name="bt_selected">選ばれる理由</string>
+    <string name="bt_counseling">無料カウンセリング</string>
+    <string name="bt_free_data">無料資料請求</string>
+    <string name="bt_how_much">オンライン見積もり</string>
+    <string name="tv_message">過去渡航者11万人以上の実績とノウハウ。\n豊富な留学情報を活用して無駄なく・賢く海外留学をスタート！</string>
+    <string name="bt_offices">オフィス一覧</string>
+    <string name="tv_message2">コミュニケーションラウンジまで気軽にお越しください。</string>
+    <string name="bt_short">短期留学</string>
+    <string name="bt_long">長期留学</string>
+    <string name="bt_learn">海外で学ぶ</string>
+    <string name="bt_job">海外で働く</string>
+    <string name="bt_live">海外で暮らす</string>
+    <string name="bt_search">国で探す</string>
+    <string name="tv_country">国</string>
+    <string name="tv_city">都市</string>
+    <string name="tv_go">出国</string>
+    <string name="tv_back">帰国</string>
+
+    <!--    StudyPageActivity-->
+    <string name="tv_study">語学留学</string>
+    <string name="bt_study_back">戻る</string>
+
+    <!--    WorkingPageActivity-->
+    <string name="tv_work">ワーホリ</string>
+    <string name="bt_work_back">戻る</string>
+
+    <!--    HomePageActivity-->
+    <string name="tv_home">ホームステイ</string>
+    <string name="bt_home_back">戻る</string>
+
+    <!--    SelectedReasonsActivity-->
+    <string name="tv_selected">選ばれる理由</string>
+    <string name="bt_selected_back">戻る</string>
+
+    <!--    無料カウンセリング-->
+    <string name="tv_counseling_page">無料カウンセリング</string>
+    <string name="bt_counseling_page_back">戻る</string>
+
+    <!--    無料資料請求-->
+    <string name="tv_free_data_page">無料資料請求</string>
+    <string name="bt_free_data_page_back">戻る</string>
+</resources>
